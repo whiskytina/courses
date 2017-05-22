@@ -8,5 +8,6 @@ data/
 ai_aliases.sh
 fast-ai-commands.txt
 fast-ai-remove.sh
+nohup.out
 .DS_Store
 ._.DS_Store
